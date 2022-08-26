@@ -1,6 +1,6 @@
 # JavaScript e TypeScript Codes 
 
-<img src="https://king.host/blog/wp-content/uploads/2021/05/javascript-para-iniciantes-1-1280x720.png">
+<img src="https://i.pinimg.com/564x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg">
 
 ## Objetivo
 Projeto realizado com o objetivo de desenvolver conhecimentos na linguagem de programação JavaScript do básico até a fluencia na linguagem.
