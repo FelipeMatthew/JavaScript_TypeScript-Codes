@@ -1,6 +1,6 @@
 # JavaScript e TypeScript Codes 
 
-<img src="https://i.pinimg.com/564x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg">
+<img src="https://media.discordapp.net/attachments/808924025505185792/1012805654618046464/unknown.png">
 
 ## Objetivo
 Projeto realizado com o objetivo de desenvolver conhecimentos na linguagem de programação JavaScript do básico até a fluencia na linguagem.
