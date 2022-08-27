@@ -11,6 +11,7 @@ Esse projeto está sendo desenvolvido acompanhando as aulas do professor <a href
 
 
 
-### Support Ou Contato
+### Suporte ou Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/FelipeMatthew)
+
