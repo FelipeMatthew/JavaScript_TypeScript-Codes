@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    
+    <h1>O seu numero é: </h1>
+    <div></div>
+
+    <script>
+        const numeroDigitado = Number(prompt('me informe o numero desejado: '));
+        const $h1 = document.querySelector("h1");
+        const $div = document.querySelector("div");
+
+        $h1.textContent += numeroDigitado;
+
+        $div.textContent = `A raiz quadrada do seu numero é: ${numeroDigitado ** 0.5} <br>`;
+        $div.textContent += `É inteiro? ${numeroDigitado.isInterger}<br>`;
+        $div.textContent = `A raiz quadrada do seu numero é: ${numeroDigitado ** 0.5}`;
+        $div.textContent = `A raiz quadrada do seu numero é: ${numeroDigitado ** 0.5}`;
+    </script>
+
+</body>
+</html>
