@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+
+    <section class="container">
+        <h1>Tabela imc</h1>
+
+        <table>
+
+            <thead>
+              <tr>
+                <th>IMC</th>
+                <th>Resultado</th>
+              </tr>
+            </thead>
+            <tbody>
+      
+                <tr>
+                  <td>Menos que 18.5</td>
+                  <td>Abaixo do peso</td>
+                </tr>
+      
+                <tr>
+                  <td>Menos que 18.5 a 24.9</td>
+                  <td>Peso normal</td>
+                </tr>
+      
+                <tr>
+                  <td>Menos que 25 a  29.9</td>
+                  <td>Sobrepeso</td>
+                </tr>
+      
+                <tr>
+                  <td>Menos que 30 a 34.9</td>
+                  <td>Obesidade grau 1</td>
+                </tr>
+      
+                <tr>
+                  <td>Menos que 35 a 39.9</td>
+                  <td>Obesidade grau 2</td>
+                </tr>
+      
+                <tr>
+                  <td>Mais do que 40</td>
+                  <td>Obesidade grau 3</td>
+                </tr>
+            </tbody>
+      
+          </table>
+
+        <h3>Calcular imc</h3>
+    
+        <form action="" class="form">
+            <label>Nome:</label><br>
+            <input type="text" class="name">
+            <p class="example">Exemplo: Felipe</p><br>
+        
+            <label>Altura (METROS):</label><br>
+            <input type="text" class="altura">
+            <p class="example">Exemplo: 1.68</p><br>
+        
+            <label>Peso (KG):</label><br>
+            <input type="text" class="peso">
+            <p class="example">Exemplo: 65.5</p><br>
+        
+            <button class="btn" type="submit">Calcular</button>
+        
+            <div class="result"></div>
+        </form>
+    </section>
+
+    <script src="./main.js"></script>
+</body>
+</html>
