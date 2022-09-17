@@ -1,0 +1,19 @@
+{
+  "name": "aula9",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon sever.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "description": ""
+}
